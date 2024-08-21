@@ -8,6 +8,7 @@ print(c)
 if c>7:
     print("This is right answer")
     print("Calculation")
+    print("Maths")
 
 
 else:
