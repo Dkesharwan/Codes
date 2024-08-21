@@ -1,7 +1,7 @@
 def sum(a,b):
     return a+b
 
-c  =  sum(4,5)
+c  =  sum(4,1)
 
 print(c)
 
@@ -12,4 +12,5 @@ if c>7:
 
 
 else:
-    print("Something wrong")
+    d =  int(input("Enter the numberr "))
+    print(d)
