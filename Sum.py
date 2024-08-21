@@ -12,5 +12,5 @@ if c>7:
 
 
 else:
-    d =  int(input("Enter the numberr "))
+    d =  int(input("Enter the numberrrrr "))
     print(d)
